@@ -1,0 +1,79 @@
+body {
+  background: url("../img/wallpaper.png") center / cover;
+}
+
+.all {
+  width: 100%;
+  height: 85vh;
+  padding: 40px;
+}
+
+.top-doc {
+  height: 4vh;
+  background: rgba(255,255,255,0.68);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 10px;
+}
+
+.icons-status {
+  display: flex;
+}
+
+.left-itens i {
+  font-size: 1.5rem;
+}
+
+.icons-status i {
+  margin-left: 10px;
+}
+
+.texts p {
+  margin: 0 5px;
+  font-weight: 700;
+}
+
+.doc-content {
+  background: initial;
+  height: 10vh;
+}
+
+.docbar {
+  max-height: 100px;
+  padding: 7px 10px;
+  background: rgba(255,255,255,0.36);
+  border-radius: 15px;
+}
+
+.item {
+  margin: 0 10px;
+}
+
+.icon img {
+  width: 48px;
+}
+
+.icon:hover {
+  transform: scale(1.1);
+  cursor: pointer;
+}
+
+.separator {
+  width: 3px;
+  background: rgba(0,0,0,0.19);
+  border-radius: 20px;
+}
+
+.item.big {
+  margin: 0;
+}
+
+.item-after img {
+  width: 36px;
+}
+
+.item-after {
+  padding: 0 10px;
+}
+
