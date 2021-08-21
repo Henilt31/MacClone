@@ -1,2 +1,3 @@
 # MacClone
-Mac Os Clone Using HTML CSS AND BOOTSTRAP 5
+![image](https://user-images.githubusercontent.com/57519174/130335729-d66a2392-95bf-42ec-9aa7-21c3e7085dd6.png)
+**MAC CLONE** É Um Clone Do Desktop Mac OS
